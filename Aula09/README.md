@@ -113,9 +113,3 @@ Dica: voce pode usar como referencia os documentos do catalogo de dados acima.
 
 1. Remova um produto especifico usando `deleteOne()`.
 2. Remova todos os produtos de uma categoria usando `deleteMany()`.
-
-#### Exercicio 5: Performance (Indices)
-
-1. Crie um indice para o campo `nome`.
-2. Crie um indice composto usando `categoria` e `preco`.
-3. Liste os indices existentes na colecao.
